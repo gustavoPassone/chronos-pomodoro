@@ -1,4 +1,4 @@
-import styles from './Container.modules.css'
+import styles from './styles.module.css';
 
 type ContainerProps = {
   children: React.ReactNode;
